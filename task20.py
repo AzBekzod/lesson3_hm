@@ -37,3 +37,4 @@ word = input("Введите слово: ")
 score = calculate_score(word)
 if score is not None:
     print("Стоймость слова:", score)
+

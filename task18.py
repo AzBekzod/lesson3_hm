@@ -10,10 +10,3 @@ for i in range(len(a)):
     if (b - a[i]) < b-number and b - a[i] > 0:
         number = i
 print(a[number])
-
-
-
-
-
-
-
